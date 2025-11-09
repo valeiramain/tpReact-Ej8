@@ -9,7 +9,7 @@ function App() {
   return (
     <>
     <main>
-      <h1 className='text-center py-3'>Formulario Simple</h1>
+      <h1 className='text-center py-3 text-warning'>Formulario Simple</h1>
       <Formulario></Formulario>
     </main>
     </>
